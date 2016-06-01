@@ -1,0 +1,30 @@
+{
+  "name": "narf",
+  "version": "1.0.0",
+  "description": "Collection of \"Pondering\" quotes from Pinky and the Brain, complete with meta data surrounding each",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guahanweb/narf.git"
+  },
+  "keywords": [
+    "quotes",
+    "pinky",
+    "npm",
+    "console",
+    "cli"
+  ],
+  "author": "Garth Henson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guahanweb/narf/issues"
+  },
+  "homepage": "https://github.com/guahanweb/narf#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  }
+}
